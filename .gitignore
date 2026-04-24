@@ -3,7 +3,7 @@ mlops_venv/
 venv_mlflow/
 venv/
 .env/
-
+mlops_venv
 # MLflow
 mlruns/
 mlflow.db
